@@ -1,7 +1,7 @@
 <img  src="https://www.digitalsolutionservices.com/img/services/web%20development.gif" height="200px" width="100%" align="center" />
 
 <h1 align="center">Hi 👋, Humbe Rushikesh</h1>
-<h3 align="center">"Passionate full-stack developer with expertise in developing and deploying web applications, leveraging both client-side and server-side technologies."</h3>
+<h3 align="center">"A self-motivated, hard-working and ambitious Full Stack Web Developer with proficiency in JavaScript and React"</h3>
 
 
  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=b440e2&size=24&width=500&lines=Currently+Learning+Full-Stack+Web+Development;Open-Source+Developer;Nice+to+meet+you...)
@@ -13,11 +13,11 @@ Hello, I'm  Humbe Rushikesh, a Full Stack Web Developer with expertise in React,
 - 🌱 I’m currently learning Full Stack Web dvelopment
 - 👯 I’m looking to collaborate as software developer - related to react.js
 - 💬 Ask me about react.js, javscript
-- 📫 How to reach me:  Humbe Rushikesh@gmail.com 
+- 📫 How to reach me:  rushikeshhumbe23@gmail.com 
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rushikeshhumbe23) 
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rushikeshhumbe23) 
 - [![GitHub Profile](https://img.shields.io/badge/github-%230077B5.svg?logo=github&logoColor=white)](https://github.com/rushikeshhumbe23)
 - Email: rushikeshhumbe23@gmail.com
 
