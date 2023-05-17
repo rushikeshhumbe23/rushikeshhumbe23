@@ -40,10 +40,7 @@ Hello, I'm  Humbe Rushikesh, a Full Stack Web Developer with expertise in React,
  Show some ❤️ by starring some of the repositories!
 </h3>
 <br>
-<h3 align="center"> 
-  Visitor count <br><br>
-  <img  src="https://profile-counter.glitch.me/rushikeshhumbe23/count.svg" />
-</h3>
+
 
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
