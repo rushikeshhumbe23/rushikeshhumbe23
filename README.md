@@ -8,7 +8,7 @@
  
  
 # 💫 About Me: 
-Hello, I'm  Humbe Rushikesh, a Full Stack Web Developer with expertise in React, Node.js, and MongoDB.
+Hello, I'm  Humbe Rushikesh, a Full Stack Web Developer with expertise in <b>React, Node.js, and MongoDB.</b>
 - 🔭 I’m currently working on software developement skills
 - 🌱 I’m currently learning <b>Full Stack Web dvelopment</b>
 - 👯 I’m looking to collaborate as software developer related to <b>react.js</b>
