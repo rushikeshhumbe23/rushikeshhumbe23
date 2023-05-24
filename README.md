@@ -1,10 +1,10 @@
 <img  src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" height="300px" width="100%" align="center" />
 
 <h1 align="center">Hi 👋,Rushikesh Humbe</h1>
-<h3 align="center">A passionate,hardworking and ambitious Full Stack Web Developer From India</h3>
+<h4 align="center">A passionate,hardworking and ambitious Full Stack Web Developer From India</h4>
 
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=4025FF&background=5200FF00&center=true&vCenter=true&width=435&lines=I+am+Full+Stack+Web+Developer+;Hope+to+get+in+touch" alt="Typing SVG" /></a></h3>
 
- ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=b440e2&size=24&width=500&lines=Currently+Learning+Full-Stack+Web+Development;Open-Source+Developer;Nice+to+meet+you...)
  
  
 # 💫 About Me: 
