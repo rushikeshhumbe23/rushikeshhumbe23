@@ -15,7 +15,6 @@ Hello, I'm  Humbe Rushikesh, a Full Stack Web Developer with expertise in React,
 - 💬 Ask me about react.js, javscript
 - 📫 How to reach me:  rushikeshhumbe23@gmail.com 
 
-
 ## 🌐 Socials:
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rushikeshhumbe23) 
 - [![GitHub Profile](https://img.shields.io/badge/github-%230077B5.svg?logo=github&logoColor=white)](https://github.com/rushikeshhumbe23)
