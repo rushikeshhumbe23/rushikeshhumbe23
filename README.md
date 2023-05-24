@@ -1,4 +1,4 @@
-<img  src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" height="400px" width="100%" align="center" />
+<img  src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" height="300px" width="100%" align="center" />
 
 <h1 align="center">Hi 👋, Humbe Rushikesh</h1>
 <h3 align="center">"A self-motivated, hard-working and ambitious Full Stack Web Developer with proficiency in JavaScript and React"</h3>
