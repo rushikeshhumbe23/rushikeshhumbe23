@@ -41,10 +41,10 @@ Hello, I'm  Humbe Rushikesh, a Full Stack Web Developer with expertise in React,
 <br>
 
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
 
   <img  src="https://github.com/rushikeshhumbe23/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
-</div>
+</div> -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
