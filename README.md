@@ -17,7 +17,7 @@ Hello, I'm  Humbe Rushikesh, a Full Stack Web Developer with expertise in React,
 <!-- - 🔗 Know more about me https://rushikeshhumbe23.github.io/ -->
 
 ## 🌐 Socials:
-<a href="https://www.linkedin.com/in/rushikeshhumbe23" target="_blank" ><img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw"  /></a>
+<a href="https://www.linkedin.com/in/rushikeshhumbe/" target="_blank" ><img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw"  /></a>
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rushikeshhumbe23) 
 - [![GitHub Profile](https://img.shields.io/badge/github-%230077B5.svg?logo=github&logoColor=white)](https://github.com/rushikeshhumbe23)
 <!-- -  [![Gmail Profile](https://img.shields.io/badge/github-%230077B5.svg?logo=gmail&logoColor=white)](rushikeshhumbe23@gmail.com) -->
