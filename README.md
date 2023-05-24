@@ -10,11 +10,11 @@
 # 💫 About Me: 
 Hello, I'm  Humbe Rushikesh, a Full Stack Web Developer with expertise in React, Node.js, and MongoDB.
 - 🔭 I’m currently working on software developement skills
-- 🌱 I’m currently learning Full Stack Web dvelopment
-- 👯 I’m looking to collaborate as software developer - related to react.js
-- 💬 Ask me about react.js, javscript
-- 📫 How to reach me:  rushikeshhumbe23@gmail.com 
-- ⬜ 
+- 🌱 I’m currently learning <b>Full Stack Web dvelopment</b>
+- 👯 I’m looking to collaborate as software developer related to <b>react.js</b>
+- 💬 Ask me about <b>react.js, javscript</b>
+- 📫 How to reach me rushikeshhumbe23@gmail.com 
+- 🔗 Know more about me https://rushikeshhumbe23.github.io/
 
 ## 🌐 Socials:
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rushikeshhumbe23) 
