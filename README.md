@@ -38,7 +38,7 @@ Hello, I'm  Humbe Rushikesh, a Full Stack Web Developer with expertise in <b>Rea
 ![](https://github-profile-trophy.vercel.app/?username=rushikeshhumbe23&theme=tokyonight&no-frame=true&no-bg=true&margin-w=60)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rushikeshhumbe23&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=rushikeshhumbe23&icon=0&color=0&margin=auto)](https://visitcount.itsvg.in)
 
 <hr/>
 <h3 align="center">
