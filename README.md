@@ -30,7 +30,7 @@ Hello, I'm  Humbe Rushikesh, a Full Stack Web Developer with expertise in <b>Rea
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) !
 -->
 # 📊 GitHub Stats:
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rushikeshhumbe23&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true" alt="Stats1" />
+
  ![](https://github-readme-stats.vercel.app/api?username=rushikeshhumbe23&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)
  ![](https://github-readme-streak-stats.herokuapp.com/?user=rushikeshhumbe23&theme=highcontrast&hide_border=false)
  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rushikeshhumbe23&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
