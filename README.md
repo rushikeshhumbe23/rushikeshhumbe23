@@ -1,4 +1,4 @@
-<img  src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" height="300px" width="100%" align="center" />
+<!-- <img  src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" height="300px" width="100%" align="center" /> -->
 
 <h1 align="center">Hi 👋,Rushikesh Humbe</h1>
 <h4 align="center">A passionate,hardworking and ambitious Full Stack Web Developer From India</h4>
